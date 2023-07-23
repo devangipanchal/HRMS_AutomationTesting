@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Testattendance">
+    <classes>
+      <class name="com.qa.mewurk.test.attendance.NoattendancePolicyTest"/>
+      <class name="com.qa.mewurk.test.attendance.SettingForAttendanceTesting"/>
+      <class name="com.qa.mewurk.test.attendance.FlexiPolicyTest"/>
+      <class name="com.qa.mewurk.test.attendance.FixedPolicyTest"/>
+      <class name="com.qa.mewurk.test.attendance.LoginAttendancetesting"/>
+      <class name="com.qa.mewurk.test.attendance.AttendancePageTesting"/>
+      <class name="com.qa.mewurk.test.attendance.ChooseTemplateTest"/>
+      <class name="com.qa.mewurk.test.attendance.HomePageTestingForAttendance"/>
+    </classes>
+  </test> <!-- Testattendance -->
+</suite> <!-- Suite -->

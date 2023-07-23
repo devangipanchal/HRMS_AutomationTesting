@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="16" passed="15" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-01T11:00:39 IST" name="Suite" finished-at="2022-09-01T11:06:06 IST" duration-ms="326948">
+    <groups>
+    </groups>
+    <test started-at="2022-09-01T11:00:39 IST" name="Testattendance" finished-at="2022-09-01T11:06:06 IST" duration-ms="326948">
+      <class name="com.qa.mewurk.test.attendance.LoginAttendancetesting">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.mewurk.test.attendance.LoginAttendancetesting@273e7444]" started-at="2022-09-01T11:03:27 IST" name="setUp" finished-at="2022-09-01T11:03:33 IST" duration-ms="5621" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginpagelabelTest()[pri:1, instance:com.qa.mewurk.test.attendance.LoginAttendancetesting@273e7444]" started-at="2022-09-01T11:03:33 IST" name="loginpagelabelTest" finished-at="2022-09-01T11:03:33 IST" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpagelabelTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.mewurk.test.attendance.LoginAttendancetesting@273e7444]" started-at="2022-09-01T11:03:33 IST" name="tearDown" finished-at="2022-09-01T11:03:33 IST" duration-ms="142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.mewurk.test.attendance.LoginAttendancetesting@273e7444]" started-at="2022-09-01T11:03:33 IST" name="setUp" finished-at="2022-09-01T11:03:38 IST" duration-ms="5222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest()[pri:2, instance:com.qa.mewurk.test.attendance.LoginAttendancetesting@273e7444]" started-at="2022-09-01T11:03:38 IST" name="loginTest" finished-at="2022-09-01T11:03:38 IST" duration-ms="198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.mewurk.test.attendance.LoginAttendancetesting@273e7444]" started-at="2022-09-01T11:03:38 IST" name="tearDown" finished-at="2022-09-01T11:03:39 IST" duration-ms="118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.mewurk.test.attendance.LoginAttendancetesting -->
+      <class name="com.qa.mewurk.test.attendance.FlexiPolicyTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.mewurk.test.attendance.FlexiPolicyTest@72e5a8e]" started-at="2022-09-01T11:01:27 IST" name="setUp" finished-at="2022-09-01T11:01:39 IST" duration-ms="11721" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TestAttendanceFlexiPolicy()[pri:1, instance:com.qa.mewurk.test.attendance.FlexiPolicyTest@72e5a8e]" started-at="2022-09-01T11:01:39 IST" name="TestAttendanceFlexiPolicy" finished-at="2022-09-01T11:01:40 IST" duration-ms="455" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestAttendanceFlexiPolicy -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.mewurk.test.attendance.FlexiPolicyTest@72e5a8e]" started-at="2022-09-01T11:01:40 IST" name="tearDown" finished-at="2022-09-01T11:01:40 IST" duration-ms="249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.mewurk.test.attendance.FlexiPolicyTest@72e5a8e]" started-at="2022-09-01T11:01:40 IST" name="setUp" finished-at="2022-09-01T11:01:51 IST" duration-ms="11109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TestEditAttendanceFlexiPolicy()[pri:2, instance:com.qa.mewurk.test.attendance.FlexiPolicyTest@72e5a8e]" started-at="2022-09-01T11:01:51 IST" name="TestEditAttendanceFlexiPolicy" finished-at="2022-09-01T11:01:54 IST" duration-ms="3473" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestEditAttendanceFlexiPolicy -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.mewurk.test.attendance.FlexiPolicyTest@72e5a8e]" started-at="2022-09-01T11:01:54 IST" name="tearDown" finished-at="2022-09-01T11:01:55 IST" duration-ms="194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.mewurk.test.attendance.FlexiPolicyTest -->
+      <class name="com.qa.mewurk.test.attendance.ChooseTemplateTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.mewurk.test.attendance.ChooseTemplateTest@783a467b]" started-at="2022-09-01T11:04:21 IST" name="setUp" finished-at="2022-09-01T11:04:31 IST" duration-ms="10083" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TestFlexiPolicy()[pri:1, instance:com.qa.mewurk.test.attendance.ChooseTemplateTest@783a467b]" started-at="2022-09-01T11:04:31 IST" name="TestFlexiPolicy" finished-at="2022-09-01T11:04:39 IST" duration-ms="7224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestFlexiPolicy -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.mewurk.test.attendance.ChooseTemplateTest@783a467b]" started-at="2022-09-01T11:04:39 IST" name="tearDown" finished-at="2022-09-01T11:04:39 IST" duration-ms="238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.mewurk.test.attendance.ChooseTemplateTest@783a467b]" started-at="2022-09-01T11:04:39 IST" name="setUp" finished-at="2022-09-01T11:04:49 IST" duration-ms="9982" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TestFixedPolicy()[pri:2, instance:com.qa.mewurk.test.attendance.ChooseTemplateTest@783a467b]" started-at="2022-09-01T11:04:49 IST" name="TestFixedPolicy" finished-at="2022-09-01T11:04:50 IST" duration-ms="1500" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestFixedPolicy -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.mewurk.test.attendance.ChooseTemplateTest@783a467b]" started-at="2022-09-01T11:04:50 IST" name="tearDown" finished-at="2022-09-01T11:04:50 IST" duration-ms="243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.mewurk.test.attendance.ChooseTemplateTest@783a467b]" started-at="2022-09-01T11:04:50 IST" name="setUp" finished-at="2022-09-01T11:05:35 IST" duration-ms="44130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TestNoAttendance()[pri:3, instance:com.qa.mewurk.test.attendance.ChooseTemplateTest@783a467b]" started-at="2022-09-01T11:05:35 IST" name="TestNoAttendance" finished-at="2022-09-01T11:05:36 IST" duration-ms="1454" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestNoAttendance -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.mewurk.test.attendance.ChooseTemplateTest@783a467b]" started-at="2022-09-01T11:05:36 IST" name="tearDown" finished-at="2022-09-01T11:05:36 IST" duration-ms="273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.mewurk.test.attendance.ChooseTemplateTest -->
+      <class name="com.qa.mewurk.test.attendance.FixedPolicyTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.mewurk.test.attendance.FixedPolicyTest@54e1c68b]" started-at="2022-09-01T11:01:55 IST" name="setUp" finished-at="2022-09-01T11:02:07 IST" duration-ms="11989" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TestAttendanceFlexiPolicy()[pri:1, instance:com.qa.mewurk.test.attendance.FixedPolicyTest@54e1c68b]" started-at="2022-09-01T11:02:07 IST" name="TestAttendanceFlexiPolicy" finished-at="2022-09-01T11:03:27 IST" duration-ms="80377" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder='hh : mm'and @name='attendanceSetting.minFullDayHour']"}
+  (Session info: chrome=104.0.5112.102)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.0', revision: '87802e897b'
+System info: host: 'LMANTRAMEWURK17', ip: '192.168.29.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a87ac34e0804ebd4486b3fa179f66d1e, findElement {using=xpath, value=//input[@placeholder='hh : mm'and @name='attendanceSetting.minFullDayHour']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 104.0.5112.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Chaitra.P\AppData\...}, goog:chromeOptions: {debuggerAddress: localhost:60845}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60845/devtoo..., se:cdpVersion: 104.0.5112.102, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a87ac34e0804ebd4486b3fa179f66d1e]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder='hh : mm'and @name='attendanceSetting.minFullDayHour']"}
+  (Session info: chrome=104.0.5112.102)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.0', revision: '87802e897b'
+System info: host: 'LMANTRAMEWURK17', ip: '192.168.29.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a87ac34e0804ebd4486b3fa179f66d1e, findElement {using=xpath, value=//input[@placeholder='hh : mm'and @name='attendanceSetting.minFullDayHour']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 104.0.5112.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Chaitra.P\AppData\...}, goog:chromeOptions: {debuggerAddress: localhost:60845}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60845/devtoo..., se:cdpVersion: 104.0.5112.102, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a87ac34e0804ebd4486b3fa179f66d1e
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:164)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:139)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:559)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:383)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:375)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+at jdk.proxy2/jdk.proxy2.$Proxy16.sendKeys(Unknown Source)
+at com.qa.attendance.allpage.CreateFixedPolicy.CreateAttendanceFixedPolicy(CreateFixedPolicy.java:54)
+at com.qa.mewurk.test.attendance.FixedPolicyTest.TestAttendanceFlexiPolicy(FixedPolicyTest.java:53)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestAttendanceFlexiPolicy -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.mewurk.test.attendance.FixedPolicyTest@54e1c68b]" started-at="2022-09-01T11:03:27 IST" name="tearDown" finished-at="2022-09-01T11:03:27 IST" duration-ms="250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.mewurk.test.attendance.FixedPolicyTest -->
+      <class name="com.qa.mewurk.test.attendance.AttendancePageTesting">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.mewurk.test.attendance.AttendancePageTesting@7db12bb6]" started-at="2022-09-01T11:03:39 IST" name="setUp" finished-at="2022-09-01T11:03:49 IST" duration-ms="10232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testEditpolicy()[pri:2, instance:com.qa.mewurk.test.attendance.AttendancePageTesting@7db12bb6]" started-at="2022-09-01T11:03:49 IST" name="testEditpolicy" finished-at="2022-09-01T11:04:05 IST" duration-ms="15690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEditpolicy -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.mewurk.test.attendance.AttendancePageTesting@7db12bb6]" started-at="2022-09-01T11:04:05 IST" name="tearDown" finished-at="2022-09-01T11:04:05 IST" duration-ms="222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.mewurk.test.attendance.AttendancePageTesting@7db12bb6]" started-at="2022-09-01T11:04:05 IST" name="setUp" finished-at="2022-09-01T11:04:15 IST" duration-ms="10009" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testDeletepolicy()[pri:3, instance:com.qa.mewurk.test.attendance.AttendancePageTesting@7db12bb6]" started-at="2022-09-01T11:04:15 IST" name="testDeletepolicy" finished-at="2022-09-01T11:04:21 IST" duration-ms="6219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeletepolicy -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.mewurk.test.attendance.AttendancePageTesting@7db12bb6]" started-at="2022-09-01T11:04:21 IST" name="tearDown" finished-at="2022-09-01T11:04:21 IST" duration-ms="238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.mewurk.test.attendance.AttendancePageTesting -->
+      <class name="com.qa.mewurk.test.attendance.NoattendancePolicyTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.mewurk.test.attendance.NoattendancePolicyTest@342c38f8]" started-at="2022-09-01T11:00:39 IST" name="setUp" finished-at="2022-09-01T11:00:53 IST" duration-ms="14047" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TestNoAttendanceCreatePolicy()[pri:1, instance:com.qa.mewurk.test.attendance.NoattendancePolicyTest@342c38f8]" started-at="2022-09-01T11:00:53 IST" name="TestNoAttendanceCreatePolicy" finished-at="2022-09-01T11:00:54 IST" duration-ms="930" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestNoAttendanceCreatePolicy -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.mewurk.test.attendance.NoattendancePolicyTest@342c38f8]" started-at="2022-09-01T11:00:54 IST" name="tearDown" finished-at="2022-09-01T11:00:54 IST" duration-ms="308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.mewurk.test.attendance.NoattendancePolicyTest@342c38f8]" started-at="2022-09-01T11:00:54 IST" name="setUp" finished-at="2022-09-01T11:01:05 IST" duration-ms="10880" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TestCancelNoAttendanceCreatePolicy()[pri:2, instance:com.qa.mewurk.test.attendance.NoattendancePolicyTest@342c38f8]" started-at="2022-09-01T11:01:05 IST" name="TestCancelNoAttendanceCreatePolicy" finished-at="2022-09-01T11:01:06 IST" duration-ms="393" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCancelNoAttendanceCreatePolicy -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.mewurk.test.attendance.NoattendancePolicyTest@342c38f8]" started-at="2022-09-01T11:01:06 IST" name="tearDown" finished-at="2022-09-01T11:01:06 IST" duration-ms="269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.mewurk.test.attendance.NoattendancePolicyTest -->
+      <class name="com.qa.mewurk.test.attendance.SettingForAttendanceTesting">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.mewurk.test.attendance.SettingForAttendanceTesting@7d4f9aae]" started-at="2022-09-01T11:01:06 IST" name="setUp" finished-at="2022-09-01T11:01:12 IST" duration-ms="6395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="settingspagetitleTest()[pri:1, instance:com.qa.mewurk.test.attendance.SettingForAttendanceTesting@7d4f9aae]" started-at="2022-09-01T11:01:12 IST" name="settingspagetitleTest" finished-at="2022-09-01T11:01:17 IST" duration-ms="5015" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- settingspagetitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.mewurk.test.attendance.SettingForAttendanceTesting@7d4f9aae]" started-at="2022-09-01T11:01:17 IST" name="tearDown" finished-at="2022-09-01T11:01:17 IST" duration-ms="174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.mewurk.test.attendance.SettingForAttendanceTesting@7d4f9aae]" started-at="2022-09-01T11:01:17 IST" name="setUp" finished-at="2022-09-01T11:01:24 IST" duration-ms="6745" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testclickonattendance()[pri:2, instance:com.qa.mewurk.test.attendance.SettingForAttendanceTesting@7d4f9aae]" started-at="2022-09-01T11:01:24 IST" name="testclickonattendance" finished-at="2022-09-01T11:01:27 IST" duration-ms="3088" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testclickonattendance -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.mewurk.test.attendance.SettingForAttendanceTesting@7d4f9aae]" started-at="2022-09-01T11:01:27 IST" name="tearDown" finished-at="2022-09-01T11:01:27 IST" duration-ms="231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.mewurk.test.attendance.SettingForAttendanceTesting -->
+      <class name="com.qa.mewurk.test.attendance.HomePageTestingForAttendance">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.mewurk.test.attendance.HomePageTestingForAttendance@272113c4]" started-at="2022-09-01T11:05:36 IST" name="setUp" finished-at="2022-09-01T11:05:45 IST" duration-ms="8827" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="homepagetitleTest()[pri:1, instance:com.qa.mewurk.test.attendance.HomePageTestingForAttendance@272113c4]" started-at="2022-09-01T11:05:45 IST" name="homepagetitleTest" finished-at="2022-09-01T11:05:53 IST" duration-ms="8027" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepagetitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.mewurk.test.attendance.HomePageTestingForAttendance@272113c4]" started-at="2022-09-01T11:05:53 IST" name="tearDown" finished-at="2022-09-01T11:05:53 IST" duration-ms="184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.mewurk.test.attendance.HomePageTestingForAttendance@272113c4]" started-at="2022-09-01T11:05:53 IST" name="setUp" finished-at="2022-09-01T11:06:03 IST" duration-ms="9101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testclickonsettings()[pri:2, instance:com.qa.mewurk.test.attendance.HomePageTestingForAttendance@272113c4]" started-at="2022-09-01T11:06:03 IST" name="testclickonsettings" finished-at="2022-09-01T11:06:06 IST" duration-ms="3132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testclickonsettings -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.mewurk.test.attendance.HomePageTestingForAttendance@272113c4]" started-at="2022-09-01T11:06:06 IST" name="tearDown" finished-at="2022-09-01T11:06:06 IST" duration-ms="255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.mewurk.test.attendance.HomePageTestingForAttendance -->
+    </test> <!-- Testattendance -->
+  </suite> <!-- Suite -->
+</testng-results>
