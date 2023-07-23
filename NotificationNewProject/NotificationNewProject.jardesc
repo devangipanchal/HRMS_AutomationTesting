@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/Devangi.Panchal/Desktop/projecct automation/com.mewurk.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/NotificationNewProject/NotificationNewProject.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="true" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/NotificationNewProject/pom.xml"/>
+        <folder path="/NotificationNewProject/src"/>
+        <javaElement handleIdentifier="=NotificationNewProject/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/"/>
+        <file path="/NotificationNewProject/.classpath"/>
+        <javaElement handleIdentifier="=NotificationNewProject/src\/test\/java=/test=/true=/=/optional=/true=/=/maven.pomderived=/true=/"/>
+        <folder path="/NotificationNewProject/test-output"/>
+        <file path="/NotificationNewProject/.project"/>
+        <folder path="/NotificationNewProject/target"/>
+    </selectedElements>
+</jardesc>
